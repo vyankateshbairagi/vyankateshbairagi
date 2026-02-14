@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack  </h3>
 
 <p align="center">
-  <a href="https://vyankateshbairagi.netlify.app" target="_blank">Portfolio</a> •
+  <a href="https://vyankateshbairagi.vercel.app" target="_blank">Portfolio</a> •
   <a href="mailto:vyankateshbairagi.dev@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/vyankateshbairagi/" target="_blank">LinkedIn</a> •
   <a href="https://github.com/vyankatesh014" target="_blank">GitHub</a>
