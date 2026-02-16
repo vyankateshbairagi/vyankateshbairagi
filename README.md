@@ -34,7 +34,7 @@
 
 Full Stack Developer specializing in the **MERN stack**, with strong fundamentals in **Data Structures, backend architecture, and system-oriented problem solving**.  
 Experienced in building **scalable, production-ready web applications**, implementing secure authentication, RESTful APIs, and responsive user interfaces.  
-Actively improving expertise in **advanced React patterns, backend optimization, and software design principles**.
+Actively improving expertise in **advanced React patterns, backend optimization and software design principles**.
 
 ---
 
