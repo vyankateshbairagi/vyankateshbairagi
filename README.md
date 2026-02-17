@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vyankatesh </h1>
+<h1 align="center">Hi 👋, I'm Vyankatesh Bairagi </h1>
 <h3 align="center">MERN Stack  </h3>
 
 <p align="center">
