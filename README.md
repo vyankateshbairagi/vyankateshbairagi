@@ -65,7 +65,7 @@ Actively improving expertise in **advanced React patterns, backend optimization 
 - **Grocery Management System** – Full-stack app with authentication, product management, and cart functionality   
 - **Multiple MERN Mini-Projects** – CRUD apps, API integrations, and UI-focused projects  
 
-> Full project details available at: **https://vyankateshbairagi.netlify.app**
+> Full project details available at: **https://vyankateshbairagi.vercel.app**
 
 ---
 
