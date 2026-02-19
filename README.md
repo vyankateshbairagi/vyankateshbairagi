@@ -74,7 +74,7 @@ Actively improving expertise in **advanced React patterns, backend optimization 
 ### Bachelor of Engineering – Computer Engineering  
 **Sandip Institute of Technology & Research Centre, Nashik**  
 **2023 – 2026**  
-CGPA: **8.48**
+CGPA: **8.70**
 
 Relevant Coursework:  
 Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, AI
