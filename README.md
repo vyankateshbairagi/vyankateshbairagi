@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vyankateshbairagi.netlify.app" target="_blank">
+  <a href="https://vyankateshbairagi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:vyankateshbairagi.dev@gmail.com">
