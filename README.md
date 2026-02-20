@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+System+Thinking" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://vyankateshbairagi.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -25,7 +25,7 @@
   <a href="https://github.com/vyankatesh014" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p> -->
+</p> 
 
 
 ---
